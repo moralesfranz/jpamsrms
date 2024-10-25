@@ -1,0 +1,6 @@
+{
+    "name": "omarmorales/jpams_resort_management_system",
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
